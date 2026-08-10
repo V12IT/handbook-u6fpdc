@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://V12IT.github.io/handbook-u6fpdc/sitemap.xml
